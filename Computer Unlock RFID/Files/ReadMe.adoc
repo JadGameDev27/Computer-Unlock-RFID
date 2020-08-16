@@ -1,0 +1,18 @@
+:Author: JadGameDev
+:Email: jadgamedev@gmail.com
+:Date: 22/03/2020
+:Revision: 1.0
+:License: Public Domain
+
+= Project: Computer_Unlock_RFID
+
+Unlock Your Computer With RFID Card
+Load the code
+
+Upload the code contained in this sketch on to your board
+
+=== License
+This project is released under a JadGameDev27 License.
+
+=== Contributing
+To contribute to this project please contact JadGameDev https://id.arduino.cc/JadGameDev
